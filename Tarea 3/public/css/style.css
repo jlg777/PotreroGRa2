@@ -1,0 +1,19 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body h1 {
+    color: orange
+}
+
+.titulo_receta {
+    color: blueviolet
+}
+
+.descripcion_receta {
+    color: grey;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
